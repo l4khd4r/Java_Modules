@@ -1,4 +1,4 @@
-import school.util.Digit;
+import java00.lib.school.util.Digit;
 
 public class Program {
     public static void main(String[] args) {

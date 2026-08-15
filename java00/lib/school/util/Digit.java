@@ -1,4 +1,4 @@
-package school.util;
+package java00.lib.school.util;
 
 public class Digit {
     private final int number;
@@ -7,9 +7,6 @@ public class Digit {
         this.number = number;
     }
 
-    /**
-     * Returns the digit at the given index (0 = most-significant digit).
-     */
     public int getDigit(int index) {
         String str = String.valueOf(Math.abs(number));
         if (index < 0 || index >= str.length()) {

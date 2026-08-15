@@ -1,8 +1,7 @@
 import java.util.Scanner;
 
-import school.util.Digit;
-import school.util.Prime;
-
+import java00.lib.school.util.Digit;
+import java00.lib.school.util.Prime;
 class Google
 {
     private int coffee_preps ;

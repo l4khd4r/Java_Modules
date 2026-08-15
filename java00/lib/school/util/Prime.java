@@ -1,4 +1,4 @@
-package school.util;
+package java00.lib.school.util;
 
 public class Prime
 {

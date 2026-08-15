@@ -1,7 +1,8 @@
 
 
 import java.util.Scanner;
-import school.util.Prime;
+
+import java00.lib.school.util.Prime;
 
 public class Program
 {
