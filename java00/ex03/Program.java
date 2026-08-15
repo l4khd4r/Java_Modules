@@ -1,3 +1,6 @@
+package java00.ex03;
+
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
